@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "id": 1607275865495,
+      "jobTitle": "Angular Developer",
+      "jobExperience_min": 1,
+      "jobExperience_max": 4,
+      "jobLocation": "Chennai",
+      "jobSalary_min": 250000,
+      "jobSalary_max": 500000,
+      "jobDesc": "Must be able to work on HTML, CSS3, JQuery, JavaScript, JQuery Mobile , Must have strong OOPS & Javascript fundamental knowledge , Execellent Knowledge of Angular JS 7/8 , Experience with responsive web design development."
+    },
+    {
+      "id": 1607275865816,
+      "jobTitle": "JavaScript Developer",
+      "jobExperience_min": 2,
+      "jobExperience_max": 6,
+      "jobLocation": "Chennai",
+      "jobSalary_min": 350000,
+      "jobSalary_max": 600000,
+      "jobDesc": "Strong experience in JavaScript development, Framework, Libraries (AngularJs, ReactJs, Knockout Js, Backbone.Js, Durandal.Js),HTML5,CSS3,Front end Javascript developer,Grunt,Gulp.js. Javascript Module Loader (Require Js /AMD). All mandatory"
+    },
+    {
+      "id": 1607275865777,
+      "jobTitle": "Designer",
+      "jobExperience_min": 3,
+      "jobExperience_max": 8,
+      "jobLocation": "Chennai",
+      "jobSalary_min": 250000,
+      "jobSalary_max": "500,000",
+      "jobDesc": "Executing all visual design stages from concept to final hand-off Experience working with Online Website Builder platforms such as DUDA, Wix, WordPress and basic knowledge of HTML & CSS Conceptualizing original website design ideas that bring simplicity and user friendliness to complex roadblocks Demonstrable graphic design skills with a strong portfolio Solid experience in creating wireframes, storyboards, user flows, process flows, and sitemap"
+    }
+  ]
+}
