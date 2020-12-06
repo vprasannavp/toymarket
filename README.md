@@ -15,6 +15,11 @@ npm run serve
 npm run build
 ```
 
+### Json Server Run
+```
+json-server src/assets/jobs.json
+```
+
 ### Lints and fixes files
 ```
 npm run lint
