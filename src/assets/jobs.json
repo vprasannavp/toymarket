@@ -1,14 +1,14 @@
 {
   "jobs": [
     {
-      "id": 1607275865495,
       "jobTitle": "Angular Developer",
       "jobExperience_min": 1,
       "jobExperience_max": 4,
       "jobLocation": "Chennai",
       "jobSalary_min": 250000,
       "jobSalary_max": 500000,
-      "jobDesc": "Must be able to work on HTML, CSS3, JQuery, JavaScript, JQuery Mobile , Must have strong OOPS & Javascript fundamental knowledge , Execellent Knowledge of Angular JS 7/8 , Experience with responsive web design development."
+      "jobDesc": "Must be able to work on HTML, CSS3, JQuery, JavaScript, JQuery Mobile , Must have strong OOPS & Javascript fundamental knowledge , Execellent Knowledge of Angular JS 7/8 , Experience with responsive web design development.",
+      "id": 1607275865495
     },
     {
       "id": 1607275865816,

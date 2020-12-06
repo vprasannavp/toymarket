@@ -103,7 +103,7 @@
                     <div class="success_block">
                         <img src="@/assets/img/done_pic.jpg" />
                     </div>
-                    <p class="succ_txt"> Added Job Successfully </p>
+                    <p class="succ_txt"> {{success_txt}}</p>
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@ import navbar from '../components/navbar.vue';
         data() {
             return {
                 isAdmin: false,
-                isNetworkError:true,
+                isNetworkError:false,
                 title:"Jobs",
                 popupTitle: "",
                 success_txt: "",
@@ -200,8 +200,8 @@ import navbar from '../components/navbar.vue';
                     this.errMsg = "Minimum Salary is Greater than Max"
                     return false
                 }
-                return true
                 this.errMsg = ""
+return true
             },
             async addjob_data(e) {
                 e.preventDefault();
